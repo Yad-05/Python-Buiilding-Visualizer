@@ -1,6 +1,7 @@
 # Python Turtle Animated Skyscraper
 
-![Main App Screenshot](docs/images/main_building.png)
+<img width="954" height="780" alt="Screenshot 2026-04-25 014703" src="https://github.com/user-attachments/assets/04433257-c67f-4e23-a2d3-a8b3f7ac0cb7" />
+
 
 A graphical Python application built with the built-in `turtle` module. This project dynamically draws a skyscraper and features an interactive prompt allowing users to choose between two unique, mesmerizing window animation patterns.
 
@@ -18,12 +19,14 @@ The application includes two distinct animation modes. The circular animation us
 ### 1. Circular Expansion (Input: `1`)
 Windows light up in expanding concentric circles from a central point, cycling through a color palette.
 
-![Circular Animation Screenshot](docs/images/animation_1_circle.gif)
+<img width="824" height="724" alt="Screenshot 2026-04-25 020023" src="https://github.com/user-attachments/assets/93069c70-de51-42aa-852f-b8065d37e73f" />
+
 
 ### 2. Color Cascade (Input: `2`)
 All windows simultaneously shift through a falling sequence of bright, vibrant colors on a continuous loop.
 
-![Color Cascade Screenshot](docs/images/animation_2_cascade.gif)
+<img width="828" height="750" alt="Screenshot 2026-04-25 020103" src="https://github.com/user-attachments/assets/a2ba85b2-4457-47b4-a0c2-5da582090bba" />
+
 
 ## Prerequisites
 
