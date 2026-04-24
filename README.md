@@ -1,4 +1,4 @@
-# Python Turtle Animated Skyscraper
+# Python Turtle Animated Building
 
 <img width="954" height="780" alt="Screenshot 2026-04-25 014703" src="https://github.com/user-attachments/assets/04433257-c67f-4e23-a2d3-a8b3f7ac0cb7" />
 
