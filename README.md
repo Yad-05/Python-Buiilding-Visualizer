@@ -38,3 +38,22 @@ To run this project, you will need **Python 3.x** installed on your machine. No 
 ```bash
 git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
 cd your-repo-name
+```
+**2. Run the script:**
+Execute the Python file from your terminal or command prompt:
+```bash
+python main.py
+```
+*(Ensure your Python file is named `main.py`, or adjust the command to match your filename).*
+
+**3. Interact with the prompt:**
+Once the building is drawn, a dialog box will appear. Type **1** or **2** and press Enter to start the corresponding animation.
+
+## Code Structure
+
+* `draw_ground()`: Renders the base environment.
+* `draw_building()`: Constructs the structural outline and vertical dividing lines.
+* `windows(color)`: Populates the grid of windows and logs their coordinate positions.
+* `animate_in_circle()`: Logic for Animation Option 1 (distance-based coloring).
+* `animate_windows_falling()`: Logic for Animation Option 2 (global color shifting).
+* `user_animation_choice()`: Handles user input to trigger the selected animation loop.
